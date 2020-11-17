@@ -10,13 +10,8 @@ public class BirinciGun {
         System.out.println("11:05 -local");
 		System.out.println("11:23 -github.com");
 		System.out.println("ben burada conflict beklemiyorum..");
-<<<<<<< HEAD
 		System.out.println(" yepyeni satir");
-=======
-                System.out.println("yepyeni bir satir");
-		
-		
->>>>>>> refs/remotes/origin/master
+
 		
 
 	}
